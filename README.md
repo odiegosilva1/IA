@@ -6,3 +6,7 @@
  
 
  ## A popularidade da IA na mídia está associada ao fato de que as pessoas começaram a usar o termo IA para definir coisas que nós costumávamos chamar por outros nomes. Você pode ver de tudo, desde estatísticas e análises de negócios, até regras codificadas manualmente, serem chamadas de IA. Por que isto acontece? Por que a percepção pública da IA é tão nebulosa?
+
+
+ ### Autonomia
+ A capacidede de executar tarefas em ambientes complexos sem orientação constante por um suário.
