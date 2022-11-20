@@ -10,3 +10,6 @@
 
  ### Autonomia
  A capacidede de executar tarefas em ambientes complexos sem orientação constante por um suário.
+
+ ## Adaptabilidade 
+ A capacidade de melhorar o desempenho aprendendo com a experiência.
